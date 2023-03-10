@@ -1,5 +1,5 @@
-from MeshMorpher.radial_basis_functions import wendland_c2
-from MeshMorpher.distance_functions import error_magnitude, dist_matrix_euclidian
+from .radial_basis_functions import wendland_c2
+from .distance_functions import error_magnitude, dist_matrix_euclidian
 from typing import NamedTuple, Callable
 
 

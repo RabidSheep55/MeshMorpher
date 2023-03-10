@@ -1,8 +1,8 @@
 import numpy as np
 from tqdm import tqdm
 
-from MeshMorpher.config import Config
-from MeshMorpher.interpolator import RBFInterpolator
+from ..config import Config
+from ..interpolator import RBFInterpolator
 
 class GreedyBasic():
     """

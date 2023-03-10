@@ -2,7 +2,7 @@ import numpy as np
 from tqdm import tqdm
 import scipy.linalg as linalg
 
-from MeshMorpher.config import Config
+from ..config import Config
 
 
 class GreedyOpt():

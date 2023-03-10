@@ -2,7 +2,7 @@ import numpy as np
 import scipy.linalg as linalg
 from tqdm import tqdm
 
-from MeshMorpher.config import Config
+from .config import Config
 
 
 class RBFInterpolator:

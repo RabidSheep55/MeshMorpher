@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt 
 
-from MeshMorpher.config import Config
+from ..config import Config
 from tqdm import tqdm
 
 class FancyBox():

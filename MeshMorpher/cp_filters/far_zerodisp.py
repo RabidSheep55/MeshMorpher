@@ -1,6 +1,6 @@
 import numpy as np
 
-from MeshMorpher.config import Config
+from ..config import Config
 
 class FarZeroDisp():
     """
